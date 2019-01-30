@@ -1,5 +1,20 @@
 # Android-NFC
+---
 
-Using the NFC Function to read and write data to an NFC Tagger.
+## What it is
 
-Preconditions for Hardware - Phone must have access to NFC Technology
+---
+
+An android application to view, and edit the information stored on an NFC Tag.
+
+---
+
+### Neccessary Items
+
+---
+
+- An android phone with NFC Technology
+- A NFC Tagger
+
+---
+
