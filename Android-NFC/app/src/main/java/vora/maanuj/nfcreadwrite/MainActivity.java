@@ -70,7 +70,7 @@ public class MainActivity extends Activity {
 
         nfcAdapter = NfcAdapter.getDefaultAdapter(this);
         if (nfcAdapter == null) {
-            // Stop here, we definitely need NFC
+            // Stop here, we need NFC
             Toast.makeText(this, "This device doesn't support NFC.", Toast.LENGTH_LONG).show();
             finish();
         }
